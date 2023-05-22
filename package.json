@@ -1,0 +1,25 @@
+{
+  "name": "sdv_a3_playground_repo",
+  "version": "1.0.0",
+  "description": "Playgorund environment for SDV A3 Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexHerbertGit/SDV_A3_Playground_Repo.git"
+  },
+  "keywords": [
+    "SDV",
+    "Assessment",
+    "3",
+    "Playground"
+  ],
+  "author": "Alex Herbert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexHerbertGit/SDV_A3_Playground_Repo/issues"
+  },
+  "homepage": "https://github.com/AlexHerbertGit/SDV_A3_Playground_Repo#readme"
+}
