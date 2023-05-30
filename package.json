@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/AlexHerbertGit/SDV_A3_Playground_Repo/issues"
   },
-  "homepage": "https://github.com/AlexHerbertGit/SDV_A3_Playground_Repo#readme"
+  "homepage": "https://github.com/AlexHerbertGit/SDV_A3_Playground_Repo#readme",
+  "devDependencies": {
+    "@faker-js/faker": "^8.0.2"
+  }
 }
